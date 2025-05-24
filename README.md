@@ -69,8 +69,6 @@ To explore the dashboard:
 3. Enable macros and editing if prompted.
 4. Navigate through the dashboard to interact with various filters and visualizations.
 
-## Conclusion
 
-This Excel Dashboard Project demonstrates the power of Excel in transforming raw data into actionable business insights. By leveraging Excel's analytical and visualization capabilities, the project provides a comprehensive view of sales performance, aiding stakeholders in strategic decision-making.
 
-For more details and to access the project files, visit the [GitHub repository](https://github.com/Sub-rat987/Excel-dashboard-project).
+
